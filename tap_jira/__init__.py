@@ -109,8 +109,7 @@ def main_impl():
     args = get_args()
 
     # Setup Context
-    catalog = Catalog.from_dict(args.properties) \
-        if args.properties else discover()
+    catalog = args.catalog if args.catalog else discover()
     Context.config = args.config
     Context.state = args.state
     Context.catalog = catalog

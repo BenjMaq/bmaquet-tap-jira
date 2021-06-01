@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 from setuptools import setup, find_packages
 
-setup(name="tap-jira",
-      version="2.0.1",
+setup(name="bmaquet-tap-jira",
+      version="1.0.1",
       description="Singer.io tap for extracting data from the Jira API",
       author="Stitch",
       url="http://singer.io",
