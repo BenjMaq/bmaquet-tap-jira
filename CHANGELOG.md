@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.3
+  * No changes (had to bump version because of PyPi issues)
+
 ## 1.0.2
   * Add field stream
 
