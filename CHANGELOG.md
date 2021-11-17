@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.4
+  * Updating fields stream schema name
+
 ## 1.0.3
   * No changes (had to bump version because of PyPi issues)
 
