@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.2
+  * Add field stream
+
 ## 1.0.1
   * Move to bmaquet-tap-jira
   * Fix catalog fetching
